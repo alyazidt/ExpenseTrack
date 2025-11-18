@@ -3,5 +3,16 @@ A full-stack expense management platform developed as part of the Full Stack Dev
 
 
 ### Database Design (ERD & Normalization) :
-- SQL Statements to Create Tables
+-  ERD (Entity Relationship Diagram) :
+  
+- SQL Statements to Create Tables (Microsoft SQL Server) :
+
+
+### Setup Instructions :
+
+
+### Backend Development (API) :
+-  API Endpoints :
+  
+- Sample requests/responses (Postman) :
 
