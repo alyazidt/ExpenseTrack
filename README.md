@@ -44,7 +44,11 @@ CREATE TABLE Expenses (
 
 
 ### Setup Instructions :
+npm install vaul@latest
 
+npm install
+
+npm run dev
 
 ### Backend Development (API) :
 -  API Endpoints :
